@@ -1,0 +1,27 @@
+Intalación de TypeScript:
+ 1. Descargar Node.js
+ 2. Ejectura comando: npm i -g typescript
+
+
+
+Interfaces vs Clases
+
+    Interface:
+    - Solo existe en tiempo de compilación
+    - Solo se usa para verificación de tipos
+
+    Clases:
+    - Existen en tiempo de compliacaión y durante el tiempo de ejecución
+    - Podemos inicializar propiedades e implementar métodos
+    - Crear instancias de dicha clase
+
+
+Palabras clave de control de acceso:
+    Public:
+    - Elementos ajenos a la clase pueden interferir o llamar a métodos o atributos de la clase
+
+    Private:
+    - Solo lo que esté dentro de la clase puede interferir y llamar a métodos o atributos de la misma clase
+
+    Protected:
+    - Solo los elementos dentro de su clase y que sean subclases o interfaces, pueden interferir y llamar a los métodos y elementos de la clase

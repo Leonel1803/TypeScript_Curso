@@ -1,0 +1,5 @@
+Modulos:
+    Sirve para organizar más el  código, haciendolo más reutilizable.
+    Cualquier fichero que contenga import, export o ambos; es un módulo.
+    Los modulos se ejecutan en su porpio ambito, los elementos declarados en un modulo no serán visibles del modulo a no ser que nosotros las exportemos.
+

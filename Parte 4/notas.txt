@@ -1,0 +1,2 @@
+Genericos:
+    Poder crear un componente que pueda funcionar en una variedad de tipos en lugar de uno solo. Pueden ser funciones, clases o interfaces
